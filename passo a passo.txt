@@ -1,0 +1,17 @@
+Adicionar mudanção:
+git add .
+git commit -m "comentario"
+git push
+
+Verificar status:
+git fetch
+git status
+
+Puxar documentos
+git pull
+
+Clonar repositorio remoto
+git clone "link do repositorio"
+
+
+
